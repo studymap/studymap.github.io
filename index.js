@@ -3,7 +3,7 @@
       var publicSpreadsheetUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vTZSYtvEbKtx8ktFapoewsBmyZPdOIoSC6OOZUDmr38p-h81IvyfOMbHMP7R9Cxc-3HZwVGR-ASIwj4/pubhtml';
 
       function init() {
-        Tabletop.init( { key: https://docs.google.com/spreadsheets/d/1DtWo_Yi53PQRfQk3pyIpK0_NrKkYK54c09oHs2a4VZo/edit?usp=sharing,
+        Tabletop.init( { key: publicSpreadsheetUrl,
                          callback: showInfo,
                          simpleSheet: true } )
       }
