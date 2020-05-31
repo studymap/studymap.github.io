@@ -1,1 +1,1 @@
-git clone https://github.com/jsoma/tabletop.git
+$ git clone https://github.com/jsoma/tabletop.git
